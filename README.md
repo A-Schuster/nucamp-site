@@ -1,4 +1,4 @@
-## NUCAMP Site Project
+## NUCAMP Site Project(Bootstrap)
 This is the project for NuCamps Front-End Developer Course.
 This course covers
 * **Bootstrap 4**,
@@ -6,4 +6,4 @@ This course covers
 * **React Native**
 <a/>
 
-This site is supposed to emulate a Camps website.
+This site is supposed to emulate a Camps website using Bootstrap.
